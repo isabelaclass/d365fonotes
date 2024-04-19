@@ -1,0 +1,8 @@
+- Finance dimensions are used to code entries
+- Custom finance dimensions are stored at DimensionFinancialTag
+- Departaments are stored are DirPartyTable
+- The source views are related to the attributes in the DimensionAttribute table
+
+### References
+https://learn.microsoft.com/en-us/dynamics365/finance/general-ledger/financial-tag-financial-dimension
+https://pedrotornich.com/a/2019/09/16/get-financial-dimension-value-and-description/
